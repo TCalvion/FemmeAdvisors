@@ -1,38 +1,71 @@
 # FemmeAdvisors – AI Voice Web Platform Case Study
 
-FemmeAdvisors is a browser-based real-time AI voice platform built around fictional AI personas, live interactive web calls, Vapi, Stripe payments, and Cloudflare-based infrastructure.
+**Live site:** https://www.femmeadvisors.com
 
-This repository is a public case study. The production source code is private.
+FemmeAdvisors is a browser-based real-time AI voice platform built around fictional AI personas, live interactive web sessions, Vapi AI, Stripe payments and Cloudflare-based infrastructure.
+
+This repository is a public case study. Production source code is not included.
+
+---
 
 ## What I Built
 
 - Browser-based AI voice session flow
-- AI persona landing pages
-- Stripe payment integration
-- Usage-based pricing model
-- Cloudflare-hosted frontend/backend flow
-- FAQ, Terms, Privacy, Refund and Support modals
-- SEO metadata and indexing preparation
-- Fail-safe planning for payments, interrupted sessions and call lifecycle handling
+- AI persona landing pages and product presentation
+- Stripe-based payment and pricing flow planning
+- Vapi AI voice integration concept and setup flow
+- Cloudflare-based web infrastructure
+- FAQ, Terms, Privacy, Refund and Support modal structure
+- SEO metadata, Open Graph setup and indexing preparation
+- Product messaging focused on browser-based voice sessions, not phone calls
 
-## Tech Areas
+---
 
-- Frontend UX and landing page structure
-- JavaScript/HTML/CSS implementation
-- Cloudflare deployment workflow
-- Stripe integration planning
-- Vapi AI voice platform integration
-- SEO and metadata setup
-- Product design and customer-facing copy
+## Tech Stack
 
-## Key Product Challenge
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend / Edge Layer:** Cloudflare Workers / Cloudflare-based API flow
+- **Database / State:** Cloudflare D1 for payment and session-state handling
+- **AI Voice:** Vapi AI
+- **Payments:** Stripe
+- **Infrastructure:** Cloudflare
+- **Product Layer:** UX writing, landing page structure, SEO basics, FAQ/legal/support content
+- **Development Workflow:** AI-assisted development, debugging, iterative testing
 
-The platform needed to clearly communicate that sessions are browser-based AI voice experiences, not phone calls. This required product positioning, FAQ clarification, payment flow design, and user trust signals.
+---
 
-## Screenshots
+## Product Challenge
 
-Screenshots will be added here.
+The main challenge was to design and position the product clearly as a browser-based AI voice experience.
+
+FemmeAdvisors is not a phone call service. Users start live AI voice sessions directly from the website using their browser and microphone.
+
+This required clear product messaging, FAQ structure, payment flow planning and trust-focused user experience.
+
+---
+
+## Key Development Areas
+
+### Voice Session Flow
+
+The platform is designed around real-time browser-based AI voice conversations with fictional AI personas.
+
+### Payment Flow
+
+Stripe is used for payment handling and pricing structure. The platform was planned around usage-based voice sessions and fail-safe payment/session handling.
+
+### Reliability Planning
+
+The project includes planning around real-world failure cases such as interrupted sessions, network loss, session timeout, duplicate actions and payment/session consistency.
+
+### SEO and Public Presentation
+
+The website was prepared with metadata, persona pages, FAQ content and clear browser-based positioning for search engines and users.
+
+---
 
 ## Status
 
 Live product / active development.
+
+The public repository documents the project, architecture and product thinking. Source code remains private.
