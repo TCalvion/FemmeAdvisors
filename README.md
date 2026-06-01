@@ -62,15 +62,15 @@ The project includes planning around real-world failure cases such as interrupte
 
 ### Homepage
 
-![FemmeAdvisors homepage hero](screenshots_hero.png)
+![FemmeAdvisors homepage hero](screenshots/hero.png)
 
 ### AI Personas
 
-![FemmeAdvisors AI personas](screenshots_personas.png)
+![FemmeAdvisors AI personas](screenshots/personas.png)
 
 ### Billing and Payments
 
-![FemmeAdvisors billing and payments modal](screenshots_billing-payments.png)
+![FemmeAdvisors billing and payments modal](screenshots/billing-payments.png)
 
 ### SEO and Public Presentation
 
