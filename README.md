@@ -58,6 +58,20 @@ Stripe is used for payment handling and pricing structure. The platform was plan
 
 The project includes planning around real-world failure cases such as interrupted sessions, network loss, session timeout, duplicate actions and payment/session consistency.
 
+## Screenshots
+
+### Homepage
+
+![FemmeAdvisors homepage](screenshots_hero.png)
+
+### AI Personas
+
+![FemmeAdvisors AI personas](screenshots_personas.png)
+
+### Billing and Payments
+
+![FemmeAdvisors billing and payments modal](screenshots_billing-payments.png)
+
 ### SEO and Public Presentation
 
 The website was prepared with metadata, persona pages, FAQ content and clear browser-based positioning for search engines and users.
