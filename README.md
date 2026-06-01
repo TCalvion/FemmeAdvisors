@@ -62,7 +62,7 @@ The project includes planning around real-world failure cases such as interrupte
 
 ### Homepage
 
-![FemmeAdvisors homepage](screenshots_hero.png)
+![FemmeAdvisors homepage hero](screenshots_hero.png)
 
 ### AI Personas
 
