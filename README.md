@@ -60,17 +60,17 @@ The project includes planning around real-world failure cases such as interrupte
 
 ## Screenshots
 
-### Homepage
+### Homepage and AI Personas
 
-![FemmeAdvisors homepage hero](screenshots/hero.png)
+![FemmeAdvisors homepage and AI personas](screenshots/femme-1.png)
 
-### AI Personas
+### How It Works
 
-![FemmeAdvisors AI personas](screenshots/personas.png)
+![FemmeAdvisors how it works](screenshots/femme-2.png)
 
-### Billing and Payments
+### FAQ and Pricing
 
-![FemmeAdvisors billing and payments modal](screenshots/billing-payments.png)
+![FemmeAdvisors FAQ and pricing](screenshots/femme-3.png)
 
 ### SEO and Public Presentation
 
@@ -80,6 +80,6 @@ The website was prepared with metadata, persona pages, FAQ content and clear bro
 
 ## Status
 
-Live product / active development.
+Live product / active development. The site has been developed further since this case study was first published; screenshots updated in November 2026.
 
 The public repository documents the project, architecture and product thinking. Source code remains private.
